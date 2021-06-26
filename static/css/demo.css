@@ -1,0 +1,27 @@
+h1{
+    color:red;
+    text-align: center;
+}
+
+body{
+background: url(https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+td,table{
+margin:auto;
+border:2px solid red;
+color:red;
+background: yellow;
+font-size:25px;
+}
+
+thead{
+background:green;
+color:white;
+}
+
+.container .jumbotron{
+margin-top=200px;
+}
